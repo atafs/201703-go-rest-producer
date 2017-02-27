@@ -1,5 +1,5 @@
-# 201703-go-rest-producer-consumer
-create a rest server in golang producing and consuming data
+# 201703-go-rest-producer
+create a rest server in golang for producing  data
 
 ## run the App
 go run producer.go &
